@@ -25,4 +25,4 @@ npm run preview
 ## Notes
 
 - Warbands auto-save in the browser; use Export / Load JSON to move them between machines.
-- Playtest v1.02 only prints thrall and demon injury tables; standard and beast results are recorded by hand.
+
