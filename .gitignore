@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.preview.log
+.preview.pid
+*.local
+.DS_Store
+.env
+.env.*
+!.env.example
