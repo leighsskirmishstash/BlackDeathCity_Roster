@@ -1,6 +1,6 @@
 # BlackDeathCity_Roster
 
-This is a Roster builder and rules reference for **Black Death City** playtest v1.02.
+This is a Roster builder and rules reference for **Black Death City** playtest.
 
 Hire warbands, equip fighters, print landscape tarot fighter cards (110 × 75 mm), track battles, and browse the rules catalogue.
 
