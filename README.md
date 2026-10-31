@@ -1,4 +1,4 @@
-# Black Death City Roster
+# BlackDeathCity_Roster
 
 Roster builder and rules reference for **Black Death City** playtest v1.02.
 
